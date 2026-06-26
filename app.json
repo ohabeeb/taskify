@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Taskify",
+    "slug": "taskify",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "backgroundColor": "#2563EB",
+    "statusBar": {
+      "backgroundColor": "#2563EB",
+      "style": "light"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#2563EB"
+      }
+    }
+  }
+}
